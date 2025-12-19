@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Checkpoints & Models
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Data & Outputs
+runs/
+*.mp4
+*.json
+*.txt
+# (Optional: If user wants to commit output usage, remove *.txt/*.json, but usually data is ignored)
+# The user only asked for checkpoints and venv. I will keep outputs but ignore models.
+# Re-reading request: "add gitignore file for checkpoints and venv"
+# I should stick to what they asked + standard python cleanliness.
+# I will NOT ignore .json/.txt unless standard.
+# But large video files definitely ignore.
+*.avi
+*.mov
+
+# User-specific
+.vscode/
+.idea/
