@@ -1,0 +1,142 @@
+[40s - 60s]:
+- **Shape**: The tactical formation appears compact with a horizontal spread (X-Spread: 360.4px) demonstrating a solid alignment across the pitch. However, the vertical dispersion (Y-Spread: 112.5px) indicates limited depth, suggesting players are positioned close to each other and may struggle to exploit forward spaces effectively.
+
+- **Passing Network**: There is an absence of clear passing sequences detected, indicating that players are not effectively linking up in chains. Given the group's compact nature, potential passes may be limited, with players likely attempting to recycle possession without much forward progression.
+
+- **Goal/Event**: No goal or shot events have been detected during this segment, which correlates with the observed tempo being slow and the lack of dynamic interactions in the attacking phase.
+
+- **Vulnerability**: The formation’s compactness may reduce vulnerability to wide attacks, but it risks exposure to quick transitions or long passes that could exploit the limited depth and high player congestion in central areas.
+
+- **Key Player Action**: Currently, no specific player actions are reported as impactful for altering the game flow, emphasizing the collective stagnation and lack of assertive plays within the tactical structure.
+
+[60s - 80s]:
+- **Shape**: The current tactical shape exhibits a more compact dispersion with a width of 323.8px and a limited depth of 73.9px, further emphasizing the team’s focus on central consolidation while being constricted in terms of verticality, indicating an adverse effect on exploiting space.
+
+- **Passing Network**: There are no identifiable passing chains present, indicating that players are largely disconnected from each other. The compact formation has hindered the effective exchange of passes, as players seem reluctant to venture into deeper runs or spread across the pitch.
+
+- **Goal/Event**: No goal was scored, nor were any shots taken during this segment. The game remains static with little offensive action, mirroring the overall slow tempo (0.0px/frame).
+
+- **Vulnerability**: The compactness of the shape protects against wide attacks but leaves the team susceptible to transitions, as the limited depth means quick counter-attacks or long balls could exploit gaps that emerge due to player congestion in central areas.
+
+- **Key Player Action**: There are currently no impactful player actions noted that are influencing game flow, reinforcing the stagnation within the tactical setup. This further highlights a lack of assertiveness and creativity in breaking the opposing defense.
+
+[80s - 100s]:
+- **Shape**: The tactical shape remains compact with a low vertical dispersion (302.2px width, 75.8px depth), further limiting the team's ability to exploit vertical space and engage in dynamic attacking sequences.
+
+- **Passing Network**: There appear to be minimal to no discernible passing chains among players; connections are hindered due to spatial congestion in central zones, with players retreating to safer positions instead of creating options for linking play.
+
+- **Goal/Event**: No goals have been scored, nor have any shots been attempted in the current segment, maintaining a stalemate and reflecting an ongoing lack of offensive threat and creativity.
+
+- **Vulnerability**: The current compact shape offers protection against wide plays but opens potential gaps for quick transitions; the team’s inability to extend its lines invites risk from counter-attacks, especially against a well-organized opponent.
+
+- **Key Player Action**: There is a noticeable absence of impactful player actions influencing the game flow, highlighting a collective disengagement and a lack of assertive movement or creativity within the setup.
+
+[100s - 120s]:
+- **Shape**: The team's compactness is reflected in a high X-Spread (323.7px width) and low Y-Spread (141.4px depth), indicating limited vertical engagement, which restricts effective offensive movements and dynamic play.
+
+- **Passing Network**: There are no identifiable passing chains evident among players; connections are stifled by continuous spatial congestion in central areas, with players largely remaining static or retreating, thereby minimizing their ability to create passing options.
+
+- **Goal/Event**: No goals have been scored, and there have been no shots attempted, highlighting a complete absence of offensive threat and creative engagement from the attacking players.
+
+- **Vulnerability**: The compact structure, while effective against wide plays, is risky as it leaves gaps for counter-attacks. The team's inability to extend its lines further invites threats from an organized opponent pushing for transition.
+
+- **Key Player Action**: There is a notable lack of impactful movements or player actions that influence the flow of the game, showcasing a collective disengagement and absence of assertive creativity within the setup.
+
+[120s - 140s]:
+- **Shape**: The team's formation remains compact with a low Y-Spread (89.6px depth) and moderate X-Spread (306.0px width), indicating that while they avoid vertical expansion, their horizontal engagement is still capable enough to potentially suffocate space in central areas.
+
+- **Passing Network**: No significant passing chains are observed; players are heavily congested in central areas, resulting in minimal support and connectivity. The ball moves sporadically without clear sequences, highlighting an unsuccessful coordination of passing options.
+
+- **Goal/Event**: There have been no goals scored or shots attempted, confirming that the offensive channel remains entirely ineffective, and the team fails to create any threat in the attacking phase.
+
+- **Vulnerability**: The compact structure is leading to an increased risk of counter-attacks as the team struggles to transition from defense to offense, inadvertently leaving gaps for the opposition to exploit in transitional moments.
+
+- **Key Player Action**: No individual player actions are significantly influencing the flow of the game; lack of impactful movements or creativity is apparent, resulting in a collective stasis that impedes offensive dynamism.
+
+[140s - 160s]:
+- **Shape**: The team is maintaining a compact shape with a Y-Spread of 108.6px and an X-Spread of 306.4px, indicating clustered positioning with an emphasis on preventing lateral expansion and limiting opposition channels.
+
+- **Passing Network**: No discernible passing chains are established; players remain heavily congested without effective connections, leading to poor ball movement and limited options for coordination among teammates.
+
+- **Goal/Event**: There are no recorded shots or goal attempts in the current segment, reaffirming a notable absence of attacking threat and offensive efficiency.
+
+- **Vulnerability**: The team's compact formation increases susceptibility to counter-attacks, as players are often caught in transition, creating exploitable gaps for the opposition to penetrate.
+
+- **Key Player Action**: No players are exhibiting significant actions that influence the game’s flow, leading to a collective stagnation that hampers offensive productivity and creativity.
+
+[160s - 180s]:
+- **Shape**: The team's compactness is decreasing, evidenced by an X-Spread of 322.9px and a Y-Spread of 122.9px, indicating a widening in the horizontal dimension that could lead to increased susceptibility to opposition attacks through the flanks.
+
+- **Passing Network**: Players remain largely disjointed, with minimal connection between teammates. Notably, no defined passing sequences are emerging, reflecting a lack of coordinated movement. Players are not capitalizing on each other's positioning, opting for longer passes instead.
+
+- **Goal/Event**: No goals or shots have resulted in this segment, reiterating the offensive stagnation and an overall lack of attacking threat.
+
+- **Vulnerability**: The widening shape creates gaps in defensive coverage, making the team more vulnerable to swift counter-attacks, especially through the wings where opposing players are likely to exploit the space.
+
+- **Key Player Action**: There is limited influence from key players on the game's flow, leading to a collective lack of offensive dynamism and creativity. Player actions appear ineffective at changing the approach towards more aggressive play.
+
+[180s - 200s]:
+- **Shape**: The team's shape remains overly spread horizontally with an X-Spread of 354.4px and a Y-Spread of 107.2px, leading to a lack of compactness that could exploit defensive gaps and limit effective defensive communication.
+
+- **Passing Network**: Players appear disconnected with no clear passing chains established. Observations suggest short passing is limited, and the majority of players are not effectively supporting one another, resulting in ineffective attacks and long passes mostly used out of necessity rather than strategy.
+
+- **Goal/Event**: No goals or shots have been taken during this segment, further highlighting the team’s ongoing offensive stagnation and inability to penetrate the opponent's defense effectively.
+
+- **Vulnerability**: With a wide shape, the team is increasingly exposed to quick counter-attacks, particularly through the flanks, making them susceptible to runs from opposing players who can exploit the gaps in their defensive lines.
+
+- **Key Player Action**: Key players lack a significant influence over the game; their actions have not contributed to changing the current offensive strategy, indicating a collective disengagement from the flow of the match.
+
+[200s - 220s]:
+- **Shape**: The team's shape remains excessively stretched with an X-Spread of 309.3px and a Y-Spread of 110.5px, indicating ongoing issues with vertical and horizontal compactness, which hinders effective offensive transitions and creates vast spaces defensively.
+
+- **Passing Network**: Players are not establishing coherent passing chains; short passes are almost non-existent, with a reliance on long passes that lack strategic intent. Currently, no significant connections are noted, leading to a disjointed attacking phase, with players passing to individuals who are often out of optimal support positions.
+
+- **Goal/Event**: There have been no recorded goals or shots taken during this segment, confirming a continued offensive stagnation and highlighting the ineffective penetration of opposing defenses.
+
+- **Vulnerability**: Due to the team's spread-out shape, they have become increasingly vulnerable to counter-attacks. Opponents can exploit the sizeable gaps created in the defensive line, particularly through swift attacks on the flanks.
+
+- **Key Player Action**: Key players are largely uninvolved in the game flow, showing minimal influence on enhancing the team’s offensive dynamics or maintaining defensive solidity, leading to a collective disengagement from match progression.
+
+[220s - 240s]:
+- **Shape**: The team continues to exhibit excessive dispersion with an X-Spread of 313.0px and a Y-Spread of 115.2px, indicating significant issues with vertical and horizontal compactness that are detrimental to both offensive cohesion and defensive solidity.
+
+- **Passing Network**: Players are largely disconnected, favoring isolated long passes with negligible short passing chains. As observed, there are no coherent sequences, and it appears players are often passing to teammates who are positioned out of support range, failing to create effective triangles or interplay.
+
+- **Goal/Event**: No goals have been scored, and there have been no shots recorded during this segment, illustrating an ongoing offensive paralysis and an inability to penetrate the opposing defensive structure.
+
+- **Vulnerability**: The excessive spacing in the team's shape has rendered them susceptible to counter-attacks, particularly as opponents can exploit the extensive gaps in the defensive line, leaving them vulnerable to quick transitions, especially down the flanks.
+
+- **Key Player Action**: Key players exhibit minimal involvement in both offensive and defensive phases. Their lack of engagement is contributing to the overall disjointedness of the team’s play, further compounding their struggles with match progression.
+
+[240s - 260s]:
+- **Shape**: The current shape continues to reflect excessive dispersion with an X-Spread of 418.4px and a Y-Spread of 116.3px, showing marginal improvements in vertical compactness but still significant horizontal dispersion, weakening both offensive and defensive cohesiveness.
+
+- **Passing Network**: Players are predominantly engaging in isolated passing, with no clear sequences or support options evident. Passes generally occur between far-apart teammates, resulting in ineffective connections and a lack of fluid movement, impeding the formation of passing triangles.
+
+- **Goal/Event**: No goals were scored during this segment, nor were any shots recorded, reaffirming the ongoing offensive paralysis and lack of penetration into the opponent's defensive zone.
+
+- **Vulnerability**: The ongoing spacing issues in the team's formation make them highly vulnerable to counter-attacks, as significant gaps persist in the defensive setup, allowing opponents to exploit these vulnerabilities, particularly during transitions.
+
+- **Key Player Action**: There remains a critical absence of impactful involvement from key players, contributing to the overall disjointedness and stagnation in play, as their disengagement continues to compromise effective match progression.
+
+[260s - 280s]:
+- **Shape**: The analysis indicates a notable reduction in horizontal dispersion with an X-Spread of 302.1px, yet the Y-Spread remains relatively unchanged at 101.4px, suggesting ongoing issues with vertical compactness. The formation still exhibits notable gaps that hinder both offensive and defensive solidity.
+
+- **Passing Network**: Players are primarily engaging with distant passing patterns; the majority of connections occur with teammates well-separated, leading to isolated interactions. A lack of consistent passing chains and overlapping support continues to limit cohesive team movement, resulting in fragmented sequences.
+
+- **Goal/Event**: No goals were scored nor shots taken during this segment, reinforcing the previous pattern of offensive inactivity and an inability to penetrate the opponent's defensive structure effectively.
+
+- **Vulnerability**: The team's continued spacing issues render them vulnerable to opponent counter-attacks, especially during transitions. With significant gaps in the defensive line, opposing players can exploit these openings with ease, pushing the team into precarious situations.
+
+- **Key Player Action**: There remains an absence of impactful contributions from key players, with most influencers remaining silent in terms of disruptive play or connection facilitation. Their disengagement detracts from the team's ability to find rhythm and maintain offensive flow.
+
+[280s - 300s]:
+- **Shape**: The analysis indicates an increase in horizontal dispersion with an X-Spread of 351.1px, while Y-Spread has slightly increased to 132.1px. This suggests that while the team has become a bit more spread out horizontally, the vertical compactness is still a concern, leading to gaps that can be exploited by the opponent.
+
+- **Passing Network**: Player connections are still characterized by distant passing patterns. The players appear to engage predominantly with individuals far apart, indicating a lack of close support and cohesive passing chains, which further fragments the offensive sequences.
+
+- **Goal/Event**: There was a notable event where the ball entered the goal zone (X=88) in Frame 3, indicating that the team managed to reach a critical attacking area, but there's no indication that a goal was scored or that a shot was taken.
+
+- **Vulnerability**: The significant gaps in the defensive line remain a primary concern, which is evident from the loose ball pressure metrics indicating that opposing players can exploit the space effectively, particularly during transitions.
+
+- **Key Player Action**: No key player has demonstrated significant influence on the flow of the game; the previously noted silence of impactful players continues, which stifles both offensive and defensive rhythm, contributing to a lack of combined team effort in critical moments.

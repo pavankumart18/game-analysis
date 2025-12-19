@@ -13,12 +13,6 @@ checkpoints/
 *.pth
 *.pt
 *.onnx
-
-# Data & Outputs
-runs/
-*.mp4
-*.json
-*.txt
 # (Optional: If user wants to commit output usage, remove *.txt/*.json, but usually data is ignored)
 # The user only asked for checkpoints and venv. I will keep outputs but ignore models.
 # Re-reading request: "add gitignore file for checkpoints and venv"

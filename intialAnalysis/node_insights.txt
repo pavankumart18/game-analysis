@@ -1,0 +1,65 @@
+[10s]: - **Formation/Shape:** The objects are relatively spread out across the field, indicating a wide view and a less compact formation, which is typical in open play transitions.
+  
+- **Phase of Play:** The current segment is characterized by an "Open Play / Transition" phase, as indicated by the presence of several objects actively positioned along the field.
+
+- **Intensity:** The intensity is high, shown by the presence of multiple dynamic objects and the indication of a transition phase, suggesting movement and engagement from multiple players.
+
+[20s]: - **Formation/Shape:** The objects are relatively spread out across the field, indicating an open formation consistent with a wide view during a transition phase.
+  
+- **Phase of Play:** The segment is characterized by an "Open Play / Transition," as shown by the high number of dynamic objects actively engaged on the field.
+
+- **Intensity:** Intensity is high, indicated by the presence of numerous dynamic objects and active movements between players, suggesting significant engagement in the play.
+
+[30s]: - **Formation/Shape:** The objects are relatively spread out, indicative of an open formation during a transition phase.
+  
+- **Phase of Play:** The segment exhibits a "Transition" phase due to the high count of dynamic objects actively engaging in the play.
+
+- **Intensity:** Intensity is high, characterized by numerous moving parts and active player engagement on the field.
+
+[40s]: - **Formation/Shape:** Players are relatively spread out across the field, indicating an open formation likely preparing for a transition play.
+  
+- **Phase of Play:** The segment reflects a "Transition" phase due to the high count of dynamic objects (players) actively engaging in the play.
+
+- **Intensity:** Intensity is high, characterized by numerous moving parts and active engagement, suggesting a fast-paced period of gameplay.
+
+[50s]: - **Formation/Shape:** Players are distributed across the field, indicating a relatively spread-out formation, suitable for rapid transitioning or exploiting space. 
+
+- **Phase of Play:** The segment reflects a "Transition" phase, indicated by the high object count and dynamic movements of players actively engaging in the play.
+
+- **Intensity:** Intensity is high, characterized by numerous moving players, suggesting a fast-paced and active period of gameplay.
+
+[60s]: - **Formation/Shape:** The objects are distributed across the field with a reasonably spread-out formation, indicating a wide view, suitable for transition play. 
+
+- **Phase of Play:** The segment reflects a "Transition" phase, characterized by a high object count and active movements, indicating rapid engagement. 
+
+- **Intensity:** Intensity is high, with numerous moving players actively involved, suggesting a fast-paced gameplay environment.
+
+[70s]: - **Formation/Shape:** The formation is spread out with a wide view, indicating players are positioned far apart, suitable for transition play.
+
+- **Phase of Play:** The phase is identified as "Transition" due to a high object count and dynamic movements.
+
+- **Intensity:** Intensity is high, evidenced by numerous moving players actively engaged in the play.
+
+[80s]: - **Formation/Shape:** The objects are spread out across the field, indicating a wide view suitable for transition play with players positioned far apart.
+  
+- **Phase of Play:** The phase remains as "Transition," backed by the high object count and the dynamic movements of players.
+
+- **Intensity:** Intensity is high, evidenced by the numerous moving players actively engaged in the play.
+
+[90s]: - **Formation/Shape:** The objects are spread out across the field with a wide view, facilitating transition play and indicating a tactical emphasis on spacing and movement.
+  
+- **Phase of Play:** The phase remains as "Transition," with a high object count and active movement, consistent with a dynamic phase of play rather than a set piece.
+
+- **Intensity:** Intensity is high, as evidenced by the numerous moving players, indicating a highly engaged and fluid situation on the field.
+
+[100s]: - **Formation/Shape:** The objects are spread out across the field, indicating a wide view that facilitates spacing for transition play.  
+- **Phase of Play:** The phase is classified as "Transition," with a high object count suggesting active movement and dynamic engagement.  
+- **Intensity:** Intensity remains high, characterized by numerous moving players, reflecting a fluid and engaged situation on the field.  
+
+[110s]: - **Formation/Shape:** The objects are compact, indicating a zoomed-in view that suggests a concentrated area of play rather than a wide spread.  
+- **Phase of Play:** The phase remains classified as "Transition," evidenced by a high object count and active player movement, signaling dynamic engagement.  
+- **Intensity:** Intensity is high, characterized by multiple players in motion, reflecting an actively fluid situation on the field.
+
+[120s]: - **Formation/Shape:** The objects are concentrated and compact, indicating a zoomed-in view of play in a localized area.
+- **Phase of Play:** The phase is classified as "Transition," evidenced by a high object count and dynamic player movements.
+- **Intensity:** Intensity remains high, characterized by multiple players in motion, reflecting an actively fluid situation on the field.

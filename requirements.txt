@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+segment-anything
+openai
+requests
+python-dotenv
