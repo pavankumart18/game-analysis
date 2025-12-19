@@ -35,9 +35,23 @@ The system bypasses traditional statistics to focus on *tactical behavior*: shap
    ```env
    LLMFOUNDRY_TOKEN=your_api_token_here
    ```
-4. **Download Model Weights**
-   - The system automatically downloads YOLO weights.
-   - **SAM Weights**: Download `sam_vit_h_4b8939.pth` and place it in a `checkpoints/` folder.
+### Model Setup
+
+#### 1. Segment Anything Model (SAM) - Critical
+This project uses the specific **ViT-H** (Huge) checkpoint (~2.5 GB) for maximum accuracy.
+
+1. Create a `checkpoints` directory in the project root.
+2. Download the model file and place it inside.
+
+**Command Line (PowerShell/Bash):**
+```bash
+mkdir checkpoints
+curl -o checkpoints/sam_vit_h_4b8939.pth https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
+```
+**Direct Download Link**: [sam_vit_h_4b8939.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
+
+#### 2. YOLOv8
+The `ultralytics` library will **automatically download** the `yolov8n.pt` (Nano) model on the first run. No manual action is required.
 
 ## Usage
 
