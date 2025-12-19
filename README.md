@@ -18,6 +18,34 @@ The system bypasses traditional statistics to focus on *tactical behavior*: shap
   - **Output 1**: Executive Summary (Actionable "Do This -> Because This" format).
   - **Output 2**: Narrative Insight Story (Malcolm Gladwell style, ~4 mins read).
 
+## Methodology & Metrics
+
+The system derives tactical insights using Physics-based calculations on Computer Vision outputs:
+
+### 1. Ball Pressure (Pressing Intensity)
+- **Definition**: Measures how tightly the ball carrier is being marked.
+- **Calculation**: Euclidean distance between the Ball centroid and the nearest Player centroid.
+- **Formula**: `√((x2-x1)² + (y2-y1)²)` < 50 pixels triggers "TIGHT PRESS".
+- **Insight**: Distinguishes between aggressive pressing and standoff defense.
+
+### 2. Squad Compactness (Shape)
+- **Definition**: Measures the discipline of the team shape (Lateral & Vertical).
+- **Calculation**: Standard Deviation (`stdev`) of all player centroids in the current frame.
+- **Formula**: 
+  - `Compactness_X = stdev([p.x for p in players])` (Width)
+  - `Compactness_Y = stdev([p.y for p in players])` (Depth)
+- **Insight**: High dispersion indicates broken lines or fatigue; low dispersion indicates a disciplined block.
+
+### 3. Game Tempo (Ball Momentum)
+- **Definition**: The velocity of play.
+- **Calculation**: Delta of ball position between sampled frames (approx. every 0.3s).
+- **Thresholds**: 
+  - **> 100px/interval**: High Tempo (Counter-attacks, long balls).
+  - **< 30px/interval**: Low Tempo (Static structure).
+
+### 4. Possession Logic
+- **Holder Detection**: A player is deemed the "Ball Carrier" if they are the nearest player to the ball and within **60 pixels**.
+
 ## Installation
 
 ### Prerequisites
