@@ -111,10 +111,11 @@ This is the raw, frame-by-frame mathematical dump of the computer vision pipelin
   - **`raw_data` -> `frames`**:
     - **`ball`**: Position `(x, y)` and Bounding Box.
     - **`players`**: List of detected players with:
-       - **`id`**: Unique Tracking ID.
-       - **`team`**: Team assignment (Team A / Team B) based on color clustering.
-       - **`position`**: Centroid `(x, y)`.
-       - **`box`**: Bounding Box.
+       - **`box`**: `[x1, y1, x2, y2]` (Bounding Box). Detected by YOLOv8. Represents the rectangular boundary of the player.
+       - **`position`**: `[x, y]` (Centroid). Calculated mathematically as the center point of the box. Used for all distance/formation metrics.
+       - **`mask` (or `mask_id`)**: The ID of the specific geometric shape (segmentation) found by SAM (Segment Anything Model) that best matches the Player's Box (using IoU overlap).
+       - **`colorval`**: The dominant Hue (0-179) extracted from the center crop of the player's box. Used to determine team identity.
+       - **`team`**: "Team A" or "Team B". Assigned by comparing the player's `colorval` to the median hue of all players (Low Hue vs High Hue).
     - **`scene_correlation`**: Score (0.0 - 1.0) indicating visual continuity (detects camera cuts).
 
 ### 2. `tactical_analysis_readable.json` (The Metrics Layer)
