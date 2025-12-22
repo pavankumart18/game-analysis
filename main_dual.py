@@ -30,7 +30,7 @@ except ImportError:
 VIDEO_PATH = os.path.join("videos", "sample.mp4")
 OUTPUT_JSON = "analysis_dual_sample.json" # Distinct output file
 OUTPUT_SUMMARY = "executive_summary_dual.txt"
-OUTPUT_FRAMES_DIR = "output_frames" # Visual Output Directory
+OUTPUT_FRAMES_DIR = "outputs" # Visual Output Directory
 SAMPLE_FPS = 1.0 # 1.0 FPS = 300 frames total (manageable)
 SEGMENT_DURATION = 10  # seconds
 YOLO_MODEL_NAME = "yolov8n.pt" # Nano model for speed
