@@ -84,7 +84,9 @@ The `ultralytics` library will **automatically download** the `yolov8n.pt` (Nano
 ## Usage
 
 1. **Place Video**
-   - Put your match footage in `videos/sample.mp4` (or update `VIDEO_PATH` in `main_dual.py`).
+   - **Source**: [Tactical Cam - Man City vs Inter](https://youtu.be/PrG_9JO38Ow?si=Rl0ou40DFPf3voUs)
+   - Download the video, rename it to `sample.mp4`, and place it in the `videos/` directory.
+   - (Alternatively, update `VIDEO_PATH` in `main_dual.py` to point to your file).
 
 2. **Run Analysis**
    ```bash
@@ -97,4 +99,44 @@ The `ultralytics` library will **automatically download** the `yolov8n.pt` (Nano
    - **`analysis_dual.json`**: Mathematical data dump (positions, metrics).
 
 ## Resume Capability
-The system saves progress to `analysis_dual.json`. If you run the script again, it will skip the heavy video processing and instantly regenerate the LLM summary from the saved tracking data.
+The system saves progress to `analysis_dual_sample.json` (or the configured JSON name). If you run the script again, it will skip the heavy video processing and instantly regenerate the LLM summary from the saved tracking data.
+
+## Output Files Explained
+
+### 1. `analysis_dual_sample.json` (The Core Data)
+This is the raw, frame-by-frame mathematical dump of the computer vision pipeline. It serves as the "Source of Truth" for all downstream analysis.
+**Structure:**
+- **`metadata`**: Video props (FPS, resolution, duration).
+- **`segments`**: List of 10-second video chunks.
+  - **`raw_data` -> `frames`**:
+    - **`ball`**: Position `(x, y)` and Bounding Box.
+    - **`players`**: List of detected players with:
+       - **`id`**: Unique Tracking ID.
+       - **`team`**: Team assignment (Team A / Team B) based on color clustering.
+       - **`position`**: Centroid `(x, y)`.
+       - **`box`**: Bounding Box.
+    - **`scene_correlation`**: Score (0.0 - 1.0) indicating visual continuity (detects camera cuts).
+
+### 2. `tactical_analysis_readable.json` (The Metrics Layer)
+A processed, human-readable summary of the match metrics, aggregated into 10-second "Narrative Nodes". This bridges the gap between raw pixels and tactical concepts.
+**Structure:** (List of Objects)
+- **`timestamp_range`**: e.g., "0s - 10s".
+- **`game_state`**: Automatically detected phase (e.g., "High Transition", "Build-up").
+- **`teams`**:
+  - **`defense_line_m`**: Position of the last defender (approx. meters).
+  - **`length_m`**: Vertical distance between front and back lines (Compactness).
+  - **`shape`**: Descriptive label (e.g., "Compact", "Stretched", "Disorganized").
+- **`momentum_mps`**: aggregate "meters per second" of the squad movement (Momentum).
+- **`press_events`**: Count of "High Press" trigger events (Defenders < 2m from Ball).
+
+### 3. `node_insights_tactical.txt` (The Chain of Thought)
+This text file contains the raw, chronological "Thought Process" of the AI Analyst. It consists of 30 separate analysis notes (one for each 10s chunk).
+- **Usage**: Use this to debug *why* the AI concluded something.
+- **Content**: visualizes the field, identifies specific press events, and logs the AI's immediate reaction to that specific 10s clip.
+
+### 4. `executive_summary_dual.txt` (The Final Report)
+The "Coach-Level" output. This is a synthesized document created by a Map-Reduce LLM strategy that reads all 30 `node_insights` and summaries the broader narrative.
+**Content:**
+- **Match Narrative**: 3-4 paragraphs telling the story of the game.
+- **Tactical Breakdown**: Specific section on Defensive Structure and Transition Speed.
+- **Coach Recommendations**: Bullet points on what the losing team needs to fix (e.g., "Defensive Line is too deep").

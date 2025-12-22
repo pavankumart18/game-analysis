@@ -21,7 +21,19 @@ checkpoints/
 # But large video files definitely ignore.
 *.avi
 *.mov
+*.mp4
 
 # User-specific
 .vscode/
 .idea/
+.videos/
+videos/
+output_frames/
+output_frames3/
+output_frames4/
+analysisOf10Seconds/
+20secondsAnalysis/
+
+node_insights_tactical_previous.txt
+node_insights.txt 
+prompt.txt 

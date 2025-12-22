@@ -1,0 +1,590 @@
+[
+  {
+    "timestamp_range": "0s - 10s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": {
+        "defense_line_m": 9,
+        "attack_line_m": 124,
+        "length_m": 115.6,
+        "width_m": 9.7,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 89.49
+  },
+  {
+    "timestamp_range": "10s - 20s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 36,
+        "attack_line_m": 36,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      },
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 82.6
+  },
+  {
+    "timestamp_range": "20s - 30s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 122,
+        "attack_line_m": 122,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      },
+      "Team B": {
+        "defense_line_m": 10,
+        "attack_line_m": 111,
+        "length_m": 101.0,
+        "width_m": 19.3,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 36.52
+  },
+  {
+    "timestamp_range": "30s - 40s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 31,
+        "attack_line_m": 34,
+        "length_m": 2.9,
+        "width_m": 0.2,
+        "shape": "Compact"
+      },
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 77.71
+  },
+  {
+    "timestamp_range": "40s - 50s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 12,
+        "attack_line_m": 89,
+        "length_m": 77.6,
+        "width_m": 18.4,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 4,
+        "attack_line_m": 117,
+        "length_m": 112.9,
+        "width_m": 23.3,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 1,
+    "momentum_mps": 24.65
+  },
+  {
+    "timestamp_range": "50s - 60s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 16,
+        "attack_line_m": 114,
+        "length_m": 97.6,
+        "width_m": 34.2,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 36,
+        "attack_line_m": 108,
+        "length_m": 72.3,
+        "width_m": 19.9,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 1,
+    "momentum_mps": 19.16
+  },
+  {
+    "timestamp_range": "60s - 70s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 19,
+        "attack_line_m": 114,
+        "length_m": 94.7,
+        "width_m": 13.5,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 24,
+        "attack_line_m": 126,
+        "length_m": 102.8,
+        "width_m": 20.0,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 7.27
+  },
+  {
+    "timestamp_range": "70s - 80s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 2,
+        "attack_line_m": 117,
+        "length_m": 115.7,
+        "width_m": 21.3,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 12,
+        "attack_line_m": 118,
+        "length_m": 106.1,
+        "width_m": 11.8,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 30.47
+  },
+  {
+    "timestamp_range": "80s - 90s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": {
+        "defense_line_m": 94,
+        "attack_line_m": 94,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 57.72
+  },
+  {
+    "timestamp_range": "90s - 100s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 1,
+        "attack_line_m": 110,
+        "length_m": 108.4,
+        "width_m": 24.2,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 13,
+        "attack_line_m": 96,
+        "length_m": 82.9,
+        "width_m": 2.5,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 1,
+    "momentum_mps": 9.16
+  },
+  {
+    "timestamp_range": "100s - 110s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 38,
+        "attack_line_m": 90,
+        "length_m": 51.9,
+        "width_m": 6.3,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 53,
+        "attack_line_m": 63,
+        "length_m": 10.0,
+        "width_m": 8.8,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 11.2
+  },
+  {
+    "timestamp_range": "110s - 120s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 99,
+        "attack_line_m": 99,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      },
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 26.02
+  },
+  {
+    "timestamp_range": "120s - 130s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 36,
+        "attack_line_m": 36,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      },
+      "Team B": {
+        "defense_line_m": 28,
+        "attack_line_m": 28,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 26.0
+  },
+  {
+    "timestamp_range": "130s - 140s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 33,
+        "attack_line_m": 69,
+        "length_m": 36.2,
+        "width_m": 11.8,
+        "shape": "Stretched"
+      },
+      "Team B": {
+        "defense_line_m": 21,
+        "attack_line_m": 99,
+        "length_m": 77.9,
+        "width_m": 20.9,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 6.77
+  },
+  {
+    "timestamp_range": "140s - 150s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 42,
+        "attack_line_m": 122,
+        "length_m": 80.0,
+        "width_m": 35.8,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 21,
+        "attack_line_m": 88,
+        "length_m": 66.8,
+        "width_m": 41.0,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 1,
+    "momentum_mps": 8.06
+  },
+  {
+    "timestamp_range": "150s - 160s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 19,
+        "attack_line_m": 49,
+        "length_m": 30.4,
+        "width_m": 0.2,
+        "shape": "Stretched"
+      },
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 42.31
+  },
+  {
+    "timestamp_range": "160s - 170s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 4,
+        "attack_line_m": 116,
+        "length_m": 112.7,
+        "width_m": 53.4,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 51,
+        "attack_line_m": 116,
+        "length_m": 65.0,
+        "width_m": 16.9,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 12.86
+  },
+  {
+    "timestamp_range": "170s - 180s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": {
+        "defense_line_m": 42,
+        "attack_line_m": 84,
+        "length_m": 42.6,
+        "width_m": 14.2,
+        "shape": "Stretched"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 62.94
+  },
+  {
+    "timestamp_range": "180s - 190s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 1,
+        "attack_line_m": 39,
+        "length_m": 38.2,
+        "width_m": 14.7,
+        "shape": "Stretched"
+      },
+      "Team B": {
+        "defense_line_m": 55,
+        "attack_line_m": 55,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 41.78
+  },
+  {
+    "timestamp_range": "190s - 200s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 8,
+        "attack_line_m": 88,
+        "length_m": 80.7,
+        "width_m": 29.8,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 9,
+        "attack_line_m": 77,
+        "length_m": 67.4,
+        "width_m": 22.5,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 11.69
+  },
+  {
+    "timestamp_range": "200s - 210s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 1,
+        "attack_line_m": 99,
+        "length_m": 98.0,
+        "width_m": 8.4,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 26,
+        "attack_line_m": 85,
+        "length_m": 59.3,
+        "width_m": 17.7,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 20.54
+  },
+  {
+    "timestamp_range": "210s - 220s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": {
+        "defense_line_m": 50,
+        "attack_line_m": 50,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 17.72
+  },
+  {
+    "timestamp_range": "220s - 230s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 19,
+        "attack_line_m": 105,
+        "length_m": 85.9,
+        "width_m": 49.9,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 37,
+        "attack_line_m": 93,
+        "length_m": 56.2,
+        "width_m": 17.2,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 21.42
+  },
+  {
+    "timestamp_range": "230s - 240s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 22,
+        "attack_line_m": 115,
+        "length_m": 93.2,
+        "width_m": 20.3,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 19,
+        "attack_line_m": 103,
+        "length_m": 83.2,
+        "width_m": 22.0,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 4,
+    "momentum_mps": 15.66
+  },
+  {
+    "timestamp_range": "240s - 250s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 15,
+        "attack_line_m": 15,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "shape": "Compact"
+      },
+      "Team B": {
+        "defense_line_m": 32,
+        "attack_line_m": 107,
+        "length_m": 75.0,
+        "width_m": 9.6,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 38.05
+  },
+  {
+    "timestamp_range": "250s - 260s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": {
+        "defense_line_m": 27,
+        "attack_line_m": 112,
+        "length_m": 84.7,
+        "width_m": 17.6,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 30.95
+  },
+  {
+    "timestamp_range": "260s - 270s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 3,
+        "attack_line_m": 112,
+        "length_m": 109.4,
+        "width_m": 9.2,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 62,
+        "attack_line_m": 83,
+        "length_m": 20.9,
+        "width_m": 8.5,
+        "shape": "Compact"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 17.33
+  },
+  {
+    "timestamp_range": "270s - 280s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 11,
+        "attack_line_m": 77,
+        "length_m": 66.5,
+        "width_m": 10.5,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": {
+        "defense_line_m": 3,
+        "attack_line_m": 89,
+        "length_m": 86.3,
+        "width_m": 25.4,
+        "shape": "Very Stretched / Disorganized"
+      }
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 0,
+    "momentum_mps": 20.55
+  },
+  {
+    "timestamp_range": "280s - 290s",
+    "teams": {
+      "Team A": {
+        "defense_line_m": 39,
+        "attack_line_m": 101,
+        "length_m": 61.2,
+        "width_m": 5.3,
+        "shape": "Very Stretched / Disorganized"
+      },
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 2,
+    "momentum_mps": 89.88
+  },
+  {
+    "timestamp_range": "290s - 300s",
+    "teams": {
+      "Team A": "No Data",
+      "Team B": "No Data"
+    },
+    "game_state": "High Transition / Counter-Attack",
+    "press_events": 1,
+    "momentum_mps": 63.97
+  }
+]
